@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		64B005F12930D0C600128C98 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		727D0072292FA2CD00D417EE /* Test-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		727D0075292FA2CD00D417EE /* Test_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_iosApp.swift; sourceTree = "<group>"; };
 		727D0077292FA2CD00D417EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 				727D0079292FA2CF00D417EE /* Assets.xcassets */,
 				727D007B292FA2CF00D417EE /* Preview Content */,
 				727D0089292FCA3300D417EE /* ImageView.swift */,
+				64B005F12930D0C600128C98 /* Readme.md */,
 			);
 			path = "Test-ios";
 			sourceTree = "<group>";
